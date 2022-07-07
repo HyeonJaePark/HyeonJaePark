@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **HyeonJaePark/HyeonJaePark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there 👋
+## HyeonJae Park
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning data science & data engineering
+- 💬 How to reach me: ...
+
+## GIT HUB RANK...?
+<p align="center">
+  <a href="https://github.com/HyeonJaePark">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=HyeonJaePark&count_private=true&show_icons=true&custom_title=Grass%20farming%20record&theme=radical"
+    />
+  </a>
+</p>
