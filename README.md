@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning data science & data engineering
 - 💬 How to reach me: ...
 
-## GIT HUB RANK...?
+## GIT HUB STAT
 <p align="center">
   <a href="https://github.com/HyeonJaePark">
     <img
