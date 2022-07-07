@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=HyeonJaePark&count_private=true&show_icons=true&custom_title=Grass%20farming%20record&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=HyeonJaePark&count_private=true&show_icons=true&custom_title=HyeonJae%20Park's%20grass%20farming%20record&theme=radical"
     />
   </a>
 </p>
