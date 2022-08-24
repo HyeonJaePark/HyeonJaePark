@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💬 How to reach me: ...
 
 
-## GIT HUB STAT
+## GITHUB STAT
 <p align="center">
   <a href="https://github.com/HyeonJaePark">
     <img
