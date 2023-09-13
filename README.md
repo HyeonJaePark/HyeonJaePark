@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## HyeonJae Park 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning data science & data engineering
+- 🌱 I’m currently learning data engineering & data science
 - 💬 How to reach me: ...
 
 
