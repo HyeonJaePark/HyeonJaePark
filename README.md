@@ -30,10 +30,6 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
-
-## Solved.ac  
-<p align="center">
-    <a href="https://solved.ac/uc07012hi/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uc07012hi"/>
     </a>
 </p>
